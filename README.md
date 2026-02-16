@@ -23,23 +23,6 @@ This project helps beginners understand:
 - Random module
 - String module
 
-📂 Project Structure
-
-python-password-generator/
-│── password.py  
-│── README.md  
-│── requirements.txt  
-
-⚙️ Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/python-password-generator.git
-
-Navigate to the project folder:
-
-cd python-password-generator
-
 
 ▶️ How to Run
 
