@@ -1,4 +1,5 @@
 # python-password-generator
+#project overview:
 A Python-based secure password generator that creates strong and customizable passwords using random combinations of letters, numbers, and special characters.
 🔐 Python Password Generator
 This project helps beginners understand:
